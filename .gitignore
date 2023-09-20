@@ -103,4 +103,3 @@ tests/windows
 
 bin/
 bin-int/
-premake5.lua
